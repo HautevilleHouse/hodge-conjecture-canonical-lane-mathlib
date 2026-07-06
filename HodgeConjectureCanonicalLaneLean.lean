@@ -5,3 +5,4 @@ import HodgeConjectureCanonicalLaneLean.SourceDependencies
 import HodgeConjectureCanonicalLaneLean.Formalization
 import HodgeConjectureCanonicalLaneLean.ReviewerBridge
 import HodgeConjectureCanonicalLaneLean.TheoremStatement
+import HodgeConjectureCanonicalLaneLean.MathlibStatement
