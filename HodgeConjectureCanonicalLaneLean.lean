@@ -1,0 +1,7 @@
+-- This module is the root of the HodgeConjectureCanonicalLaneLean Lean proof package.
+import HodgeConjectureCanonicalLaneLean.Basic
+import HodgeConjectureCanonicalLaneLean.SourcePackage
+import HodgeConjectureCanonicalLaneLean.SourceDependencies
+import HodgeConjectureCanonicalLaneLean.Formalization
+import HodgeConjectureCanonicalLaneLean.ReviewerBridge
+import HodgeConjectureCanonicalLaneLean.TheoremStatement
