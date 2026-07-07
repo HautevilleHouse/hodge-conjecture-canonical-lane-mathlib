@@ -5,8 +5,8 @@ This module records the source repository boundary and canonical-lane data
 structures for the Lean migration. The source package translation lives in
 `HodgeConjectureCanonicalLaneLean/SourcePackage.lean`.
 
-This module records the source boundary and does not assert source-conjecture
-closure.
+This module records the source boundary; source-conjecture closure remains
+carried outside this Lean boundary.
 -/
 
 namespace HautevilleHouse
